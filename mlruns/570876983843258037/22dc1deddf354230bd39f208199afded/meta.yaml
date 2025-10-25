@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/USUARIO/Descargas/PolygonUS/NIVEL%202/PORTAFOLIO/WebScraping/mlruns/570876983843258037/22dc1deddf354230bd39f208199afded/artifacts
+end_time: 1761349417257
+entry_point_name: ''
+experiment_id: '570876983843258037'
+lifecycle_stage: active
+run_id: 22dc1deddf354230bd39f208199afded
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761349416026
+status: 3
+tags: []
+user_id: Vanessa forero R
